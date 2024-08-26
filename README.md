@@ -20,7 +20,7 @@ The code will be deployed and hosted in S3.
 ## The Deployment Pipeline
 The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code from GitHub, and deploys it to S3 whenever a change is detected in the code.
 
-##Document
+## Document
 i have uploaded a word file which contains the steps and the way this project should be configured.
 
 
